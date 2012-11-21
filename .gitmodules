@@ -1,3 +1,6 @@
 [submodule "git-1"]
 	path = git-1
 	url = /home/rajdo/git/git-1/
+[submodule "git1"]
+	path = git1
+	url = https://github.com/radoslawl/test.git
